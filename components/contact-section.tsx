@@ -9,11 +9,11 @@ import { Textarea } from "@/components/ui/textarea"
 import { SectionWrapper } from "@/components/section-wrapper"
 
 const contactPeople = [
-  { name: "Anil Yadav", role: "Lead Team", phone: "+91 8125305482", image: "/" },
-  { name: "Alok Pandey", role: "Backend Developer", phone: "+91 9857487743", image: "/team/priya.jpg" },
-  { name: "Manish Chaudhary", role: "Frontend Developer", phone: "+91 7746746343", image: "/team/shyam.jpg" },
-  { name: "Sandhya Chaudhary", role: "UI/UX", phone: "+91 9873674634", image: "/team/rajesh.jpg" },
-  { name: "Brijesh Chaurasiya", role: "AI/ML Expert", phone: "+91 8954746374", image: "/team/vikram.jpg" },
+  { name: "Anil Yadav", role: "Lead Team", phone: "+91 8125305482", image: "/anil1.png" },
+  { name: "Alok Pandey", role: "Backend Developer", phone: "+91 9857487743", image: "/alok1.webp" },
+  { name: "Manish Chaudhary", role: "Frontend Developer", phone: "+91 7746746343", image: "/manish1.png" },
+  { name: "Sandhya Chaudhary", role: "UI/UX", phone: "+91 9873674634", image: "/sandhya1.jpg" },
+  { name: "Brijesh Chaurasiya", role: "AI/ML Expert", phone: "+91 8954746374", image: "/brijesh1.webp" },
 ]
 
 export function ContactSection() {
